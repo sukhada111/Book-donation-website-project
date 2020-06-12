@@ -8,6 +8,7 @@ This project seeks to put old, used books to good use by making them easily avai
 All one has to do is sign up on the website, add their contact details and add a book for donation along with its details. One can also view all the books currently available for donation, branch and year wise. Also, in case a book is no longer available for donation, one can simply delete the uploaded book. In addition to this, one can directly search for a book they wish to acquire.
 
 The technologies used to develop this full stack website are:
+
 For Front-End Development:
 HTML, CSS, Materialize CSS, JavaScript.
 
